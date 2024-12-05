@@ -1,0 +1,1 @@
+The positions of all the entities in the EditorScreen should be a percentage of the total screen width (like the GUI in roblox)
